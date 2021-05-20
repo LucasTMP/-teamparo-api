@@ -1,1 +1,1 @@
-# -teamparo-api
+# teamparo-api
